@@ -1,0 +1,12 @@
+ATMARK_RULE=\#54a9a9 | null | false | false | false | false
+COMMENT=\#808080 | null | false | false | false | false
+CURLY_BRACE=\#c0c0c0 | null | false | false | false | false
+MEDIA=\#3f7f7f | null | false | false | false | false
+NORMAL=\#c0c0c0 | null | false | false | false | false
+PROPERTY_NAME=\#cd57d0 | null | false | false | false | false
+PROPERTY_VALUE=\#e491ee | null | false | true | false | false
+SEMI_COLON=\#c0c0c0 | null | false | false | false | false
+STRING=\#ff8040 | null | false | true | false | false
+UNIVERSAL=\#3f7f7f | null | false | false | false | false
+URI=\#808080 | null | false | false | false | true
+eclipse.preferences.version=1
