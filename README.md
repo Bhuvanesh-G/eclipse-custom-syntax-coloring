@@ -1,4 +1,3 @@
-# eclipse-custom-syntax-coloring
-A custom syntax coloring theme for Eclipse
+# Eclipse custom syntax coloring
 
-Doesn't require any plugins, just the import script.
+A script for importing custom syntax coloring themes for Eclipse. (doesn't require any Eclipse plugins)
